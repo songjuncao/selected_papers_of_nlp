@@ -1,0 +1,2 @@
+- Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs
+  - huawei
