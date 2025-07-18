@@ -1,0 +1,1 @@
+- SpatialViz-Bench: Automatically Generated Spatial Visualization Reasoning Tasks for MLLMs

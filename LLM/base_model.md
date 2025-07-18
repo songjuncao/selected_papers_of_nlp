@@ -1,2 +1,6 @@
+- KAT-V1: Kwai-AutoThink Technical Report
+  - kuaishou
+- EXAONE 4.0: Unified Large Language Models Integrating Non-reasoning and Reasoning Modes
+  - LG AI Research
 - Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs
   - huawei

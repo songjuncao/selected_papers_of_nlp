@@ -1,0 +1,1 @@
+- Mono-InternVL-1.5: Towards Cheaper and Faster Monolithic Multimodal Large Language Models
