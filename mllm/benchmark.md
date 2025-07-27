@@ -1,1 +1,3 @@
+- MATHOPEVAL: A FINE-GRAINED EVALUATION BENCHMARK FOR VISUAL OPERATIONS OF MLLMS IN MATHEMATICAL REASONING
+- Zebra-CoT: A Dataset for Interleaved Vision-Language Reasoning
 - SpatialViz-Bench: Automatically Generated Spatial Visualization Reasoning Tasks for MLLMs

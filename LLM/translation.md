@@ -1,0 +1,1 @@
+- Seed-X: Building Strong Multilingual Translation LLM with 7B Parameters
