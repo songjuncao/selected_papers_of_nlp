@@ -6,6 +6,7 @@
 - Efficient Reasoning Models: A Survey
 
 ## reasoning
+- Geometric-Mean Policy Optimization
 - Group Sequence Policy Optimization
 - MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via Context-Aware Multi-Stage Policy Optimization
 - LAPO: INTERNALIZING REASONING EFFICIENCY VIA LENGTH-ADAPTIVE POLICY OPTIMIZATION
