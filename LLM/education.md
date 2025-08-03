@@ -1,0 +1,2 @@
+- ELMES: An Automated Framework for Evaluating Large Language Models in Educational Scenario
+- Opportunities and Challenges of LLMs in Education: An NLP Perspective

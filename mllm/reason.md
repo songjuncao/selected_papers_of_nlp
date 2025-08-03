@@ -1,3 +1,5 @@
+- VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning
+- REGATE: Learning Faster and Better with Fewer Tokens in MLLMs
 - Enhancing Spatial Reasoning in Vision-Language Models via Chain-of-Thought Prompting and Reinforcement Learning
 - VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning
 - Perception-Aware Policy Optimization for Multimodal Reasoning

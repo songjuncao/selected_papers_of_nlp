@@ -1,3 +1,4 @@
+- MPCC: A Novel Benchmark for Multimodal Planning with Complex Constraints in Multimodal Large Language Models
 - MATHOPEVAL: A FINE-GRAINED EVALUATION BENCHMARK FOR VISUAL OPERATIONS OF MLLMS IN MATHEMATICAL REASONING
 - Zebra-CoT: A Dataset for Interleaved Vision-Language Reasoning
 - SpatialViz-Bench: Automatically Generated Spatial Visualization Reasoning Tasks for MLLMs
