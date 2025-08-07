@@ -1,3 +1,4 @@
+- Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey
 - True Multimodal In-Context Learning Needs Attention to the Visual Context
 - Self-Contradiction as Self-Improvement: Mitigating the Generation-Understanding Gap in MLLMs
 - Mono-InternVL-1.5: Towards Cheaper and Faster Monolithic Multimodal Large Language Models

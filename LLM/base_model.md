@@ -1,3 +1,4 @@
+- gpt-oss-120b & gpt-oss-20b Model Card
 - KIMI K2: OPEN AGENTIC INTELLIGENCE
 - Technical Report of TeleChat2, TeleChat2.5 and T1
 - MEGREZ2 TECHNICAL REPORT

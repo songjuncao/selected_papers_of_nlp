@@ -1,2 +1,3 @@
+- Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training
 - Deep Researcher with Test-Time Diffusion
 - SciMaster: Towards General-Purpose Scientific AI Agents Part I. X-Master as Foundation — Can We Lead on Humanity’s Last Exam?
