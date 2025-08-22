@@ -1,3 +1,4 @@
+- Ovis2.5 Technical Report
 - M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning
 - Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities
 - Skywork-R1V3 Technical Report

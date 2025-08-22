@@ -1,3 +1,5 @@
+- Intern-S1: A Scientific Multimodal Foundation Model
+- NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model
 - gpt-oss-120b & gpt-oss-20b Model Card
 - KIMI K2: OPEN AGENTIC INTELLIGENCE
 - Technical Report of TeleChat2, TeleChat2.5 and T1

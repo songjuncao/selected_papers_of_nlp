@@ -1,3 +1,5 @@
+- When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models
+- Controlling Multimodal LLMs via Reward-guided Decoding
 - Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey
 - True Multimodal In-Context Learning Needs Attention to the Visual Context
 - Self-Contradiction as Self-Improvement: Mitigating the Generation-Understanding Gap in MLLMs
